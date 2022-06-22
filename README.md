@@ -1,4 +1,5 @@
 # vue3-template
+
 template repository for vue3
 
 # Vue 3 + TypeScript + Vite
